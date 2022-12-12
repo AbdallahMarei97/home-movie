@@ -1,0 +1,21 @@
+.moviesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.movieCard {
+    cursor: pointer;
+    width: 250px;
+}
+
+.movieTitle {
+    font-size: 20px;
+}
+
+.moviePoster {
+    height: 400px;
+    width: 250px;
+}

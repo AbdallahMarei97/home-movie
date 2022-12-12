@@ -1,0 +1,13 @@
+.searchMovieInput {
+    background: transparent;
+    border-radius: 20px;
+    color: #FFF;
+    font-size: 20px;
+    height: 30px;
+    padding-left: 10px;
+    width: 400px;
+
+    &:focus {
+        outline-width: 0;
+    }
+}
